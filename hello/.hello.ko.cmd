@@ -1,0 +1,1 @@
+cmd_/home/alioshag/code/C/modules/hello/hello.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/alioshag/code/C/modules/hello/hello.ko /home/alioshag/code/C/modules/hello/hello.o /home/alioshag/code/C/modules/hello/hello.mod.o
